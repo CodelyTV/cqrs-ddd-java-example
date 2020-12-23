@@ -6,3 +6,11 @@ out/
 # Ignore Gradle GUI config
 gradle-app.setting
 
+*.classpath
+*.project
+*.settings/
+applications/bin/
+src/backoffice/bin/
+src/mooc/bin/
+src/shared/bin/
+
